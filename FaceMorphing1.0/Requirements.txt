@@ -1,0 +1,29 @@
+Requirements:
+
+If anaconda installed in your PC, install below packages in anaconda prompt.
+1. Dlib
+	pip install -c conda-forge dlib=19.4
+2. Open cv
+	pip install opencv-python==3.2.0.6
+3. imageio
+	pip install imageio
+4. pillow
+	pip install Pillow
+
+
+If anaconda is not installed, install below packages in command prompt.
+
+1. Dlib
+	python -m conda install -c conda-forge dlib=19.4
+2. Open cv
+	python -m pip install opencv-python==3.2.0.6
+3. pillow
+	python -m pip install Pillow
+4. imageio
+	python -m pip install imageio
+
+
+
+NOTE: Download the shape_predictor_68_face_landmarks.dat from below link.
+http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
+Ensure you place the dat file in the same directory where your code exists.
