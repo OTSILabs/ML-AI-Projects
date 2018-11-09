@@ -1,0 +1,60 @@
+Requirements:
+
+if you have anaconda installed run on anaconda prompt else go to command prompt
+
+how to install anaconda prompt:
+
+open : https://www.anaconda.com/download/
+download : python version 3.6
+
+anaconda prompt:
+1. Pickle
+	pip install pickle5==0.0.4
+2. Regular expressions
+	pip install regex==2018.11.03
+3. Pandas
+	pip install pandas==0.23.4
+4. Numpy
+	pip install numpy==1.15.4
+5. Matplotlib
+	pip install matplotlib==3.0.1
+6. Seaborn
+	pip install seaborn==0.9.0
+7. Worcloud
+	pip install wordcloud==1.5.0
+8. Scikit learn
+	pip install sklearn==0.0	
+9. BeautifulSoup
+	pip install BeautifulSoup==3.2.1
+10. Nltk
+	pip install nltk==3.3
+11. Gensim
+	pip install gensim==3.6.0
+12. Flask
+	pip install Flask-RESTful==0.3.6 
+
+command prompt:
+1. Pickle
+	python -m pip install pickle5==0.0.4
+2. Regular expressions
+	python -m pip install regex==2018.11.03
+3. Pandas
+	python -m pip install pandas0.23.4
+4. Numpy
+	python -m pip install numpy==1.15.4
+5. Matplotlib
+	python -m pip install matplotlib==3.0.1
+6. Seaborn
+	python -m pip install seaborn==0.9.0
+7. Worcloud
+	python -m pip install wordcloud==1.5.0
+8. Scikit learn
+	python -m pip install sklearn==0.0
+9. BeautifulSoup
+	python -m pip install BeautifulSoup==3.2.1
+10. Nltk
+	python -m pip install nltk==3.3
+11. Gensim
+	python -m pip install gensim==3.6.0
+12. Flask
+	python -m pip install Flask-RESTful==0.3.6
